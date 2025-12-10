@@ -2,6 +2,8 @@ All file names are unaltered from their raw versions, the only extra inclusions 
 
 Feel free to give feedback on the sorting and where files should be moved if necessary. 
 
+Huge thanks to Buttery Stancakes for help with organizing some of the last few files and explaining some things about unused or strange sounds.
+
 ### Ambient: 
 Includes most files containing "ambient"/"ambience" as well as longer background noises meant for looping. Does not include shorter random background sounds or ambient music.
 
@@ -11,7 +13,9 @@ Includes all sounds associated with the sell counter at the Company Building (in
 ### Entities:
 Includes all enemy monsters given a bestiary entry, as well as the Ghost Girl and Masked. All entities are given a sub-folder associated with them.
 - Giant Sapsucker: Includes sounds from the entity and sounds from Egg scrap.
+- Maneater: Buzzing 1.ogg is reduced to 0.6x pitch in-game.
 - Masked: Includes sounds from the entity and sounds from Comedy/Tragedy scrap.
+- Thumper: Includes thunder_normal_8.ogg, which is not a "weather" sound, but is played when a thumper loses track of a player.
 
 ### Environment objects:
 Includes sounds from interactions with the environment (breaker boxes, trees, etc.)
@@ -46,7 +50,11 @@ Includes any elements associated with the HUD, menus, or other non-diegetic soun
 Includes sounds uniquely found in the v50 and v60 bootup cutscenes.
 
 ### Unused:
-Includes sounds given the prefix "v50".
+Includes sounds associated with removed or normally inaccessible features. Does not include Kidnapper Fox or Vain Shroud sounds. 
+- Applause.ogg, while technically still in the game, is a sound tied to a "jetpack cheat" only available with mods. 
+- LockpickPlayer.ogg is a removed feature that allowed players to unlock doors after holding E for 30 seconds on it.
+- PhoneTheme3.ogg is a sound from another game by Zeekerss, The Upturned. It does not play in Lethal Company and is a default sound of the ship lever.
+- Radio1.ogg is emitted by the TestCapsuleEnemy at 0.2x speed.
 
 ### Weather:
 Includes shorter sounds associated with storms, meteor showers, etc. Does not include ambient sounds such as rain loops.
