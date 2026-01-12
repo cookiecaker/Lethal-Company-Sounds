@@ -13,9 +13,9 @@ Includes all sounds associated with the sell counter at the Company Building (in
 ### Entities:
 Includes all enemy monsters given a bestiary entry, as well as the Ghost Girl and Masked. All entities are given a sub-folder associated with them.
 - Giant Sapsucker: Includes sounds from the entity and sounds from Egg scrap.
-- Maneater: Buzzing 1.ogg is reduced to 0.6x pitch in-game.
+- Maneater: `Buzzing 1.ogg` is reduced to 0.6x pitch in-game.
 - Masked: Includes sounds from the entity and sounds from Comedy/Tragedy scrap.
-- Thumper: Includes thunder_normal_8.ogg, which is not a "weather" sound, but is played when a thumper loses track of a player.
+- Thumper: Includes `thunder_normal_8.ogg`, which is not a "weather" sound, but is played when a thumper loses track of a player.
 
 ### Environment objects:
 Includes sounds from interactions with the environment (breaker boxes, trees, etc.)
@@ -24,7 +24,7 @@ Includes sounds from interactions with the environment (breaker boxes, trees, et
 ### Equipment:
 Includes the use sounds of any items that can be bought from the Shop, as well as the clipboard.
 - Flashlight: Includes both normal and Pro flashlights.
-- Walkie Talkie: Includes use sounds and the easter egg sounds from the Company Wall (Kola.ogg and FreeRefillsForever.ogg).
+- Walkie Talkie: Includes use sounds and the easter egg sounds from the Company Wall (`Kola.ogg` and `FreeRefillsForever.ogg`).
 - Boombox: Includes use sounds and song files.
 - Cruiser: Includes use sounds and radio song files.
 
@@ -36,6 +36,7 @@ Includes footsteps, impact sounds, death sounds, and any other interactions asso
 
 ### Random sounds:
 Includes shorter background sounds played at random throughout the environments. Includes "StrangeNoise" files.
+- `StrangeNoise3_0.ogg` is extremely loud, take care when listening to it. `StrangeNoise1_0.ogg` is also slightly loud.
 
 ### Scrap:
 Includes any drop/grab/interact sounds associated with scrap or other items found on a regular moon. 
@@ -44,17 +45,17 @@ Includes any drop/grab/interact sounds associated with scrap or other items foun
 Includes any sounds associated with furniture or parts of the ship, as well as the dropship.
 
 ### UI:
-Includes any elements associated with the HUD, menus, or other non-diegetic sounds (such as AllPlayersDead.ogg).
+Includes any elements associated with the HUD, menus, or other non-diegetic sounds (such as `AllPlayersDead.ogg`).
 
 ### Update cutscenes:
 Includes sounds uniquely found in the v50 and v60 bootup cutscenes.
 
 ### Unused:
 Includes sounds associated with removed or normally inaccessible features. Does not include Kidnapper Fox or Vain Shroud sounds. 
-- Applause.ogg, while technically still in the game, is a sound tied to a "jetpack cheat" only available with mods. 
-- LockpickPlayer.ogg is a removed feature that allowed players to unlock doors after holding E for 30 seconds on it.
-- PhoneTheme3.ogg is a sound from another game by Zeekerss, The Upturned. It does not play in Lethal Company and is a default sound of the ship lever.
-- Radio1.ogg is emitted by the TestCapsuleEnemy at 0.2x speed.
+- `Applause.ogg`, while technically still in the game, is a sound tied to a "jetpack cheat" only available with mods. 
+- `LockpickPlayer.ogg` is a removed feature that allowed players to unlock doors after holding E for 30 seconds on it.
+- `PhoneTheme3.ogg` is a sound from another game by Zeekerss, The Upturned. It does not play in Lethal Company and is a default sound of the ship lever.
+- `Radio1.ogg` is emitted by the TestCapsuleEnemy at 0.2x speed.
 
 ### Weather:
 Includes shorter sounds associated with storms, meteor showers, etc. Does not include ambient sounds such as rain loops.
