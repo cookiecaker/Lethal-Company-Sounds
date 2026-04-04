@@ -2,7 +2,9 @@ All file names are unaltered from their raw versions, the only extra inclusions 
 
 Feel free to give feedback on the sorting and where files should be moved if necessary. 
 
-Huge thanks to Buttery Stancakes for help with organizing some of the last few files and explaining some things about unused or strange sounds.
+Thanks to:
+- ButteryStancakes: help with organizing some sounds and explaining some things about unused or strange sounds.
+- debbicar: help identifying some sounds and scrubbing through a lot of sounds for slight changes.
 
 ### Ambient: 
 Includes most files containing "ambient"/"ambience" as well as longer background noises meant for looping. Does not include shorter random background sounds or ambient music.
@@ -16,9 +18,10 @@ Includes all enemy monsters given a bestiary entry, as well as the Ghost Girl an
 - Maneater: `Buzzing 1.ogg` is reduced to 0.6x pitch in-game.
 - Masked: Includes sounds from the entity and sounds from Comedy/Tragedy scrap.
 - Thumper: Includes `thunder_normal_8.ogg`, which is not a "weather" sound, but is played when a thumper loses track of a player.
+- Cadaver: Includes sounds associated with Cadaver Growths, infection, and Cadaver Blooms.
 
 ### Environment objects:
-Includes sounds from interactions with the environment (breaker boxes, trees, etc.)
+Includes sounds from interactions with the environment (breaker boxes, trees, water splashing, etc.)
 - Apparatus: Includes all sounds containing "lung" and sounds associated with taking out the apparatus.
 
 ### Equipment:
@@ -47,15 +50,17 @@ Includes any sounds associated with furniture or parts of the ship, as well as t
 ### UI:
 Includes any elements associated with the HUD, menus, or other non-diegetic sounds (such as `AllPlayersDead.ogg`).
 
-### Update cutscenes:
-Includes sounds uniquely found in the v50 and v60 bootup cutscenes.
-
 ### Unused:
-Includes sounds associated with removed or normally inaccessible features. Does not include Kidnapper Fox or Vain Shroud sounds. 
+Includes sounds associated with removed or normally inaccessible features.
+- Replaced: Sounds that were removed and replaced by newer versions.
 - `Applause.ogg`, while technically still in the game, is a sound tied to a "jetpack cheat" only available with mods. 
-- `LockpickPlayer.ogg` is a removed feature that allowed players to unlock doors after holding E for 30 seconds on it.
+- `Chuckle2.ogg` is an unused Tulip Snake sound shared by Zeekerss.
+- `LockpickPlayer.ogg` is a removed feature that allowed players to unlock doors after holding E for around 30 seconds on it.
 - `PhoneTheme3.ogg` is a sound from another game by Zeekerss, The Upturned. It does not play in Lethal Company and is a default sound of the ship lever.
 - `Radio1.ogg` is emitted by the TestCapsuleEnemy at 0.2x speed.
+
+### Update cutscenes:
+Includes sounds uniquely found in the v50 and v60 bootup cutscenes.
 
 ### Weather:
 Includes shorter sounds associated with storms, meteor showers, etc. Does not include ambient sounds such as rain loops.
